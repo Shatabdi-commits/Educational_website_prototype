@@ -1,0 +1,21 @@
+body{
+    background-image: url("double-bubble-dark/double-bubble-dark.png");
+    
+    font-family: "Source Sans Pro", arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #cde6fc;
+}
+blockquote{
+    background-image: url("double-bubble/double-bubble.png");
+}
+li{
+    font-size: 25px;
+  
+}
+#img{
+    display: inline-block;
+    width: 97%;
+    height:20%;
+}
